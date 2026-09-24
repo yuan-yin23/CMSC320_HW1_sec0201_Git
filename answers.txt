@@ -5,3 +5,8 @@ Answer: Git is a powerful tool that can help you manage your files and directori
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to numerous fields. Because data science is working with large amounts of data, having data science knowledge in the machine learning field would be useful and highly applicable. Machine learning requires training datasets and testing datasets with hundreds of thousands, if not millions, of instances each.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins two branches with a new merge commit, while rebasing rewrites history by adding one branch's commits to the end of another to create a single linear sequence.
